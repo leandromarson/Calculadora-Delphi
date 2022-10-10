@@ -2,8 +2,8 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2022/10/03 11:37:06.000.806,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/10/03 11:38:24.000.783,C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Works\Delphi Works\Delphi Basico\Calculadora\U_Calculadora.fmx</Transaction>
-    <Transaction>2022/10/03 11:38:24.000.783,C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Works\Delphi Works\Delphi Basico\Calculadora\U_Calculadora.pas</Transaction>
-    <Transaction>2022/10/03 11:38:32.000.034,C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Works\Delphi Works\Delphi Basico\Calculadora\Calculadora.dproj</Transaction>
+    <Transaction>2022/10/03 11:38:24.000.783,C:\Works\Delphi Works\Delphi Basico\Calculadora\U_Calculadora.pas=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/03 11:38:24.000.783,C:\Works\Delphi Works\Delphi Basico\Calculadora\U_Calculadora.fmx=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/10/03 11:38:32.000.034,C:\Works\Delphi Works\Delphi Basico\Calculadora\Calculadora.dproj=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>
